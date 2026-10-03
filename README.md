@@ -17,3 +17,8 @@ Use Python 3.13 (tested) and VS Code with the Python and Jupyter extensions.
 3. Select `.venv` as the notebook kernel, then choose **Run All**.
 
 The written plan and final results are in the [proposal](project%20proposal.pdf) and [report](project%20report.pdf).
+
+## Dataset reference
+
+- Source: [Medical Cost Personal Datasets](https://www.kaggle.com/mirichoi0218/insurance) by Miri Choi on Kaggle.
+- Download copy: [insurance.csv in this repository](https://raw.githubusercontent.com/QihangFeng/data555-project1/main/insurance.csv).
